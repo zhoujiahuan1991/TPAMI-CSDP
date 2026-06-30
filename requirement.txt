@@ -1,0 +1,13 @@
+Cython
+easydict
+faiss-gpu
+matplotlib
+metric-learn
+opencv-python
+PyYAML
+scikit-image
+scikit-learn
+tensorflow
+tqdm
+prettytable
+

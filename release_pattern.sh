@@ -1,0 +1,3 @@
+CUDA_VISIBLE_DEVICES=0 python continual_train_noisy.py --logs-dir final_model/pattern/pattern-0.3 --noise_ratio 0.3 --noise pattern  --base_rate 0.8 --cluster_weight 0.5 --AF_weight 1.0 --T_c 0.5 --T_o 0.3 --w_l 0.3
+CUDA_VISIBLE_DEVICES=0 python continual_train_noisy.py --logs-dir final_model/pattern/pattern-0.2 --noise_ratio 0.2 --noise pattern  --base_rate 0.8 --cluster_weight 0.5 --AF_weight 1.0 --T_c 0.5 --T_o 0.3 --w_l 0.3
+CUDA_VISIBLE_DEVICES=0 python continual_train_noisy.py --logs-dir final_model/pattern/pattern-0.1 --noise_ratio 0.1 --noise pattern  --base_rate 0.8 --cluster_weight 0.5 --AF_weight 1.0 --T_c 0.5 --T_o 0.3 --w_l 0.3
