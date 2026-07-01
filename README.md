@@ -12,7 +12,7 @@
 </div>
 </div>
 <p align="center">
-  <a href="https://github.com/zhoujiahuan1991/TPAMI-CSDP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FTPAMI-CSDP&label=&icon=github&color=%233d8bfd&message=&style=flat&tz=UTC">a>
+  <a href="https://github.com/zhoujiahuan1991/TPAMI-CSDP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FTPAMI-CSDP&label=&icon=github&color=%233d8bfd&message=&style=flat&tz=UTC">
 </p>
 
 The *official* repository for  [Mitigate Catastrophic Remembering via Continual Self-Paced Dual-Knowledge Purification for Noisy Lifelong Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/11520946/).
